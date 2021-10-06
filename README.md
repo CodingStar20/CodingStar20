@@ -70,10 +70,10 @@ I love programming.
 
 <!-- - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn) -->
 <!-- - Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Love_programmin) -->
-- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/Love_programmin)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Love_programmin)
  
 <!-- - Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951) -->
-- Email: [![Email](https://img.shields.io/badge/jsondata74@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jsondata74@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsondata74@gmail.com)
 
 ### My GitHub Stats
 
