@@ -7,7 +7,7 @@
 
 Hi there, I'm **Sanju Kumar**, a **Engineering Student**.
 
-I am **[AGRA](https://en.wikipedia.org/wiki/Agra)**, which is in India. Now I am studying Engineering imaging at **[AKTU](https://aktu.ac.in/)**.
+I am from **[AGRA](https://en.wikipedia.org/wiki/Agra)**, which is in India. Now I am studying Engineering imaging at **[AKTU](https://aktu.ac.in/)**.
 
 I love programming.
 
