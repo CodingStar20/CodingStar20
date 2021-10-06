@@ -1,7 +1,7 @@
 <!-- ![me](https://github.com/CodingStar20/CodingStar20/raw/master/assets/me.gif)
 <img src="https://github.com/CodingStar20/CodingStar20/blob/master/output.gif" alt="Here is a little bit about me!"> -->
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
-<hr>
+
 
 ## Hey 👋, I'm Sanju Kumar  
 
