@@ -73,7 +73,7 @@ I love programming.
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Love_programmin)
  
 <!-- - Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951) -->
-- Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsondata74@gmail.com)
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsondata74@gmail.com)
 
 ### My GitHub Stats
 
